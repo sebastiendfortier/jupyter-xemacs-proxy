@@ -145,8 +145,8 @@ def setup_xemacs():
         'new_browser_tab': True,
         'launcher_entry': {
             'enabled': True,
-            'icon_path': os.path.join(HERE, 'icons/xpra-logo.svg'),
-            'title': 'Xpra Desktop',
+            'icon_path': os.path.join(HERE, 'icons/emacs-logo.svg'),
+            'title': 'Xemacs',
             'path_info': path_info,
         },
     }
